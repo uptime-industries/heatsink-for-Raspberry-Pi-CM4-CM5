@@ -1,7 +1,7 @@
 # Compute Blade compatible universal heatsink for Raspberry Pi CM4/CM5
-[Official Compute Blade website](https://computeblade.com/)
-[Instagram](https://www.instagram.com/uptime.lab/)
-[Twitter](https://twitter.com/merocle)
+[Official Compute Blade website](https://computeblade.com/)</br>
+[Instagram](https://www.instagram.com/uptime.lab/)</br>
+[Twitter](https://twitter.com/merocle)</br>
 
 ![Blade Heatsink](/images/render.png?raw=true "Blade Heatsink")
 </br>
